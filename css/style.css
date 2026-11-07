@@ -1,0 +1,124 @@
+
+
+/* ===== כל האתר ===== */
+body {
+    background-color: #141414;
+}
+
+body {
+    font-family: "Rubik", Arial, sans-serif;
+    background-color: #141414;
+    color: #e5e5e5;
+    line-height: 1.6;
+}
+
+h1 {
+    color: steelblue;
+    font-size: 36px;
+
+}
+
+a:hover {
+    color: yellow;
+}
+
+
+
+/* ===== כותרת עליונה ===== */
+header {
+    background-color: #000000;
+}
+
+    header img {
+        width: 180px;
+    }
+
+nav a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.active {
+    color: steelblue;
+}
+
+nav {
+    color: #555555;
+}
+
+a:hover {
+    color: yellow;
+}
+
+
+
+/* ===== כרטיסי הסרטים ===== */
+.movie h2 a {
+    color: steelblue;
+    font-size: 24px;
+}
+
+.movie h2 {
+    color: steelblue;
+    font-size: 24px;
+}
+
+.movie span {
+    color: #9a9a9a;
+    font-weight: bold;
+}
+
+.movie a {
+    color: steelblue;
+}
+
+.movie img {
+    width: 200px;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.movie h2 a:hover {
+    color: yellow;
+}
+
+
+
+/* ===== עמוד אודות ===== */
+.about img {
+    width: 200px;
+}
+
+.about h2 span {
+    color: steelblue;
+}
+
+a:hover {
+    color: yellow;
+}
+
+
+
+/* ===== כותרת תחתונה ===== */
+footer {
+    background-color: #000000;
+    color: #9a9a9a;
+    text-align: center;
+    font-size: 14px;
+}
+
+    footer a {
+        color: #ffffff;
+    }
+
+    footer span {
+        color: steelblue;
+        font-weight: bold;
+    }
+
+a:hover {
+    color: yellow;
+}
